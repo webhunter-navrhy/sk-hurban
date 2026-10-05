@@ -1,0 +1,5 @@
+podklady/
+.DS_Store
+spracuj_foto.py
+foto.json
+__pycache__/
